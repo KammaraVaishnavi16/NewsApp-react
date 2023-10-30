@@ -1,3 +1,6 @@
+the below site doesn't show the app, since I'm using the api of https://newsapi.org/ in developer mode. 
+#site is live at https://kammaravaishnavi16.github.io/NewsApp-react/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
