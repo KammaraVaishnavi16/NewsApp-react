@@ -40,8 +40,8 @@ const News = (props) => {
     updateNews();
   };
   const handleNextClick = async () => {
-    updateNews();
     setPage(page + 1);
+    updateNews();
   };
 
   // fetchMoreData = async () => {
