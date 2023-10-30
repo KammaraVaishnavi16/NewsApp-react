@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Iran says girl who collapsed on Tehran metro is ‘brain dead’",
+      "description": "Activists say morality police assaulted her for not wearing a hijab, but officials say she fainted.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-67188151",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/25D2/production/_131328690_mediaitem131328689.jpg",
+      "publishedAt": "2023-10-23T13:37:20.6126885Z",
+      "content": "A teenage Iranian girl who fell into a coma after an alleged altercation with morality police is now considered to be \"brain dead\", state media say.\r\nArmita Geravand, 16, collapsed after boarding a T… [+3405 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "S Jaishankar: India will resume Canada visas if diplomats safe, says minister",
+      "description": "India had cited security threats to its diplomats while stopping visa services amid a row with Canada.",
+      "url": "http://www.bbc.co.uk/news/world-asia-india-67191126",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13CF4/production/_131504118_gettyimages-1695601860-1.jpg",
+      "publishedAt": "2023-10-23T13:37:17.5334825Z",
+      "content": "India will resume issuing visas to Canadian citizens if it \"sees progress\" in the safety of its diplomats there, Foreign Minister S Jaishankar has said.\r\nIndia had stopped visa services in September,… [+3546 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "No evidence of hate crime in synagogue president killing - police",
+      "description": "Samantha Woll was stabbed to death in Detroit but antisemitism does not appear to be a motive, police say.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67187806",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1A90/production/_131500860_mediaitem131500855.jpg",
+      "publishedAt": "2023-10-23T13:07:23.9407774Z",
+      "content": "The killing of the president of a synagogue in Detroit does not appear to be a hate crime, police have said.\r\nSamantha Woll was found stabbed to death near her home after police responded to a call i… [+1870 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Skulls and flowers on parade at Mexico's Catrinas procession",
+      "description": "Mexicans dressed as skeletons parade through the streets of the capital ahead of the Day of the Dead.",
+      "url": "http://www.bbc.co.uk/news/in-pictures-67193453",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46F0/production/_131506181_1001c480381af28e9eee97f211d0a92c9125b018.jpg",
+      "publishedAt": "2023-10-23T12:07:16.2372083Z",
+      "content": "Mexicans have been taking part in the Parade of the Catrinas, a lively procession of skeletons through Mexico City as they prepare to mark the Day of the Dead.\r\nMany participants were made up to look… [+1149 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "China toddler mauling prompts crackdown on dogs",
+      "description": "The move has been widely criticised after reports that some dogs without owners are being euthanised.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-67191243",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1158A/production/_131505017_xiaohuang.jpg",
+      "publishedAt": "2023-10-23T10:37:19.7695313Z",
+      "content": "Officials in China have launched a crackdown on stray, unregistered, and \"oversized\" dogs.\r\nBut the move has been widely criticised after reports that dogs without owners are being rounded up and som… [+3376 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Biggest cervical cancer drug advance in 20 years hailed",
+      "description": "Using existing drugs differently may be the biggest treatment breakthrough for decades, say scientists.",
+      "url": "http://www.bbc.co.uk/news/health-67192441",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11652/production/_131505217_gettyimages-1389973365.jpg",
+      "publishedAt": "2023-10-23T09:22:19.8144187Z",
+      "content": "Scientists say they may have made the biggest breakthrough in treating cervical cancer in 20 years, using a course of existing, cheap drugs ahead of usual radiotherapy treatment. \r\nTrial findings, re… [+2856 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Billionaires should face a minimum tax rate, report says",
+      "description": "A 2% rate on the world's wealthy could raise as much as $250bn a year, a report suggests.",
+      "url": "http://www.bbc.co.uk/news/business-67191791",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9E5C/production/_131504504_blokewithmoney.png",
+      "publishedAt": "2023-10-23T09:07:17.4401126Z",
+      "content": "Billionaires should face a minimum tax rate, according to a report which found some of the world's mega-wealthy are paying little to no tax.\r\nThe EU Tax Observatory said most people pay a higher rate… [+2213 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Argentina presidential election: Javier Milei and Sergio Massa head for run-off vote",
+      "description": "Partial results from Sunday's election suggest the country will have to vote again next month.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-67190494",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CCCE/production/_131503425_9f1df2bc13363bc39d1a765127f0dce11cd63b280_0_5900_39381000x667.jpg",
+      "publishedAt": "2023-10-23T02:22:14.0657222Z",
+      "content": "Argentines will have to choose between left-wing candidate Sergio Massa and the far-right Javier Milei in a run-off vote next month, partial results from Sunday's presidential election suggest. \r\nWit… [+3015 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "Verstappen wins US GP ahead of charging Hamilton",
+      "description": "Max Verstappen climbs up from sixth on the grid to win the US Grand Prix after a close battle with Lando Norris and Lewis Hamilton.",
+      "url": "http://www.bbc.co.uk/sport/formula1/67189998",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/09E2/production/_131503520_verstappen.jpg",
+      "publishedAt": "2023-10-22T21:37:18.6462147Z",
+      "content": "Hamilton was very close to a struggling Verstappen by the end of the race\r\nMax Verstappen climbed up from sixth on the grid to win the US Grand Prix after a close battle with Lando Norris and Lewis H… [+3915 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Dead and wounded strain Gaza hospitals as air strikes intensify",
+      "description": "As the Israel-Hamas war continues into a third week, doctors in Gaza battle to save who they can.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-67186181",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62E8/production/_131502352_gettyimages-1737973916.jpg",
+      "publishedAt": "2023-10-22T16:37:21.2549477Z",
+      "content": "Warning: This article contains details that some may find distressing\r\nAt the Al-Aqsa Martyrs hospital in central Gaza, they are running out of material to cover the dead with.\r\nThe bodies are stacke… [+4817 chars]"
+    }
+  ]
+}
