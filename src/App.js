@@ -10,7 +10,8 @@ const App = () => {
   const [text, setText] = useState("Enable Dark");
   const [navbarText, setNavbarText] = useState("dark");
   const [progress, setProgress] = useState(0);
-
+  const apiKey = process.env.REACT_APP_NEWS_API_KEY;
+  // const apiKey = "8ee1e4e5f9f84d798377e63cc58b0946";
   const handleBgMode = () => {
     if (text === "Enable Dark") {
       document.body.style.backgroundColor = "#021231";
@@ -52,6 +53,7 @@ const App = () => {
               element={
                 <News
                   setProgressBar={setProgressBar}
+                  apiKey={apiKey}
                   key="general"
                   pageSize={pageSize}
                   country={"in"}
@@ -66,6 +68,7 @@ const App = () => {
               element={
                 <News
                   setProgressBar={setProgressBar}
+                  apiKey={apiKey}
                   key="business"
                   pageSize={pageSize}
                   country={"in"}
@@ -79,6 +82,7 @@ const App = () => {
               element={
                 <News
                   setProgressBar={setProgressBar}
+                  apiKey={apiKey}
                   key="entertainment"
                   pageSize={pageSize}
                   country={"in"}
@@ -93,6 +97,7 @@ const App = () => {
               element={
                 <News
                   setProgressBar={setProgressBar}
+                  apiKey={apiKey}
                   key="health"
                   pageSize={pageSize}
                   country={"in"}
@@ -106,6 +111,7 @@ const App = () => {
               element={
                 <News
                   setProgressBar={setProgressBar}
+                  apiKey={apiKey}
                   key="science"
                   pageSize={pageSize}
                   country={"in"}
@@ -119,6 +125,7 @@ const App = () => {
               element={
                 <News
                   setProgressBar={setProgressBar}
+                  apiKey={apiKey}
                   key="sports"
                   pageSize={pageSize}
                   country={"in"}
@@ -132,6 +139,7 @@ const App = () => {
               element={
                 <News
                   setProgressBar={setProgressBar}
+                  apiKey={apiKey}
                   key="technology"
                   pageSize={pageSize}
                   country={"in"}

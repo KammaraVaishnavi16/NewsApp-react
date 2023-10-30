@@ -15,7 +15,7 @@ const News = (props) => {
 
   const updateNews = async () => {
     props.setProgressBar(10);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=8ee1e4e5f9f84d798377e63cc58b0946&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
 
     setLoading(true);
     let data = await fetch(url);
@@ -31,8 +31,9 @@ const News = (props) => {
   };
 
   useEffect(() => {
-    updateNews();
     document.title = `${captilizeFirstLetter(props.category)} - NewsApp`;
+    updateNews();
+    //eslint-disable-next-line
   }, []);
 
   const handlePrevClick = async () => {
@@ -74,26 +75,30 @@ const News = (props) => {
         > */}
       <div className="container">
         <div className="row">
-          {articles.map((element) => {
-            return (
-              <div className="col-md-4 " key={element.url}>
-                <NewsItems
-                  title={element.title ? element.title.slice(0, 45) : ""}
-                  description={
-                    element.description ? element.description.slice(0, 88) : ""
-                  }
-                  imageUrl={
-                    element.urlToImage
-                      ? element.urlToImage
-                      : "https://cdn.ndtv.com/common/images/ogndtv.png"
-                  }
-                  newsUrl={element.url}
-                  author={element.author}
-                  date={element.publishedAt}
-                />
-              </div>
-            );
-          })}
+          {console.log(articles)}
+          {articles &&
+            articles.map((element) => {
+              return (
+                <div className="col-md-4 " key={element.url}>
+                  <NewsItems
+                    title={element.title ? element.title.slice(0, 45) : ""}
+                    description={
+                      element.description
+                        ? element.description.slice(0, 88)
+                        : ""
+                    }
+                    imageUrl={
+                      element.urlToImage
+                        ? element.urlToImage
+                        : "https://cdn.ndtv.com/common/images/ogndtv.png"
+                    }
+                    newsUrl={element.url}
+                    author={element.author}
+                    date={element.publishedAt}
+                  />
+                </div>
+              );
+            })}
         </div>
       </div>
       {/* </InfiniteScroll> */}
